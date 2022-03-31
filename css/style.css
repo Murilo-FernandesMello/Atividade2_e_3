@@ -32,8 +32,9 @@ p {
     font-family: 'Courier New', Courier, monospace
 }
 
-h4 {
+nav a {
     color: red;
+    text-decoration: none;
     font-size: 15pt;
     margin-left: 50px;
 }
